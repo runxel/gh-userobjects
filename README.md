@@ -2,6 +2,8 @@
 Grasshopper user objects are files you can add to Grasshopper to enhance and ease your workflow. Mostly they are clustered components. They will reside with the other components, which makes them easy to use.  
 Everybody can create them by "File > Create User Object…"  
 
+![multi fillet picture](/assets/img/multi-fillet.png)
+
 ---
 
 ### [Multi Fillet](UserObjects/Multi%20Fillet.ghuser)
