@@ -17,3 +17,8 @@ ShatterInt shatters multiple curves at their intersections.
 Deconstructs a plane and outputs the basepoint and all the main vectors. Should be used together with the `Vector Display Ex (VDisEx)` component.
 
 ![show all plane vectors picture](/assets/img/showapv.png)
+
+---
+
+Other Places to look:
+* [froGH](https://github.com/Co-de-iT/froGH)
