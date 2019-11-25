@@ -17,7 +17,7 @@ Actually a small [python script](assets/MultiFillet.py) which allows the user to
 This is an extended version of my previous Multi Fillet script/user-object.
 You can now also chamfer your curves at the curve parameters you specify.
 
-_See the code [here](assets/MultiFilletChamfer.py)_
+_See the code [here](assets/MultiFilletChamfer.py)._
 
 ### [ShatterInt](UserObjects/ShatterInt.ghuser)
 ShatterInt shatters multiple curves at their intersections.
